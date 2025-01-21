@@ -1,2 +1,2 @@
-# fcc-sd-calculator
-FreeCodeCamp.org Standard Deviation Calculator
+# Standard Deviation Calculator
+FreeCodeCamp.org Mean-Variance Standard Deviation Calculator
